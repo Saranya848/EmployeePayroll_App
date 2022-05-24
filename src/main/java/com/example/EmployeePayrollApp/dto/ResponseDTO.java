@@ -1,6 +1,7 @@
-package com.example.EmployeePayrollApp.dto;
+package com.example.employeepayrollapp.dto;
 
 public class ResponseDTO {
+
     private String message;
     private Object data;
 

@@ -1,6 +1,7 @@
-package com.example.EmployeePayrollApp.dto;
+package com.example.employeepayrollapp.dto;
 
 public class EmployeePayrollDTO {
+
     public String name;
     public long salary;
 
@@ -8,6 +9,7 @@ public class EmployeePayrollDTO {
         this.name = name;
         this.salary = salary;
     }
+
     @Override
     public String toString() {
         return "name='" + name + '\'' +

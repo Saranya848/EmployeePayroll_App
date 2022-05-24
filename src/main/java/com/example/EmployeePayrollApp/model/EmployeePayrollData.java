@@ -1,6 +1,6 @@
-package com.example.EmployeePayrollApp.model;
+package com.example.employeepayrollapp.model;
 
-import com.example.EmployeePayrollApp.dto.EmployeePayrollDTO;
+import com.example.employeepayrollapp.dto.EmployeePayrollDTO;
 
 
 public class EmployeePayrollData {
